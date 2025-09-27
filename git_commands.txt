@@ -1,0 +1,24 @@
+# sets up Git with your name
+
+git config --global user.name "<Your-Full-Name>"
+
+# sets up Git with your email
+
+git config --global user.email "<your-email-address>"
+===================================================================================
+Table of Content
+
+What are Git Commands?
+Top 12 Git Commands for Every Developer
+1. git config
+2. git init
+3. git clone
+4. git status
+5. git add
+6. git commit
+7. git push
+8. git branch
+9. git checkout
+10. git merge
+11. git pull
+12. git log
